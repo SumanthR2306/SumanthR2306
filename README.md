@@ -135,15 +135,21 @@
 
 # 🏆 Achievements
 
-<div align="center">
+- 🏆 Developed a Machine Learning based **Stress Detection System** achieving **97% accuracy**
+- 🚀 Developed a **Smart E-Commerce System** with demand prediction and personalized recommendations
+- 🤖 Implemented **Random Forest Regression** and hybrid recommendation techniques
+- 💻 Built applications using **Java, Spring Boot, React.js, MySQL, Python and REST APIs**
 
-🥇 Built ML model with **97% prediction accuracy**  
-🚀 Developed multiple full-stack applications  
-💻 Strong understanding of software engineering concepts  
-🌱 Continuously improving development & problem-solving skills  
-🔥 Passionate about AI, Web Development & Technology  
+---
 
-</div>
+# 🚀 Hackathons
+
+### 🧠 Hydra Hacks 2025
+**AI Agents using n8n**
+
+- Participated in a team-based hackathon focused on **AI Agent development using n8n**
+- Worked on workflow automation and AI-driven solutions
+- Collaborated with team members to design and implement the solution
 
 ---
 
