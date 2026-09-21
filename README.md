@@ -2,7 +2,7 @@
 
 # ✨ Hey, I'm G Sumanth Reddy ✨
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=1000&lines=Software+Engineer+💻;Full+Stack+Developer+🚀;Machine+Learning+Enthusiast+🤖;Building+Scalable+Web+Applications+🌐;Python+|+React+|+Node.js+|+Java" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=1000&lines=MCA+Student+🎓;Aspiring+Software+Engineer+💻;Java+%7C+Spring+Boot+%7C+React.js+🚀;Full+Stack+Developer+🌐;Machine+Learning+Enthusiast+🤖" />
 
 <br/>
 
