@@ -170,13 +170,21 @@
 
 <div align="center">
 
-🎓 **Bachelor of Computer Applications (BCA)**  
-📍 Vivekananda Institute of Management, Bangalore  
-📅 2020 - 2023
+### 🎓 Master of Computer Applications — MCA
 
-</div>
+**Sir M. Visvesvaraya Institute of Technology, Bengaluru**
 
----
+📅 **2025 – 2027**
+
+<br/>
+
+### 🎓 Bachelor of Computer Applications — BCA
+
+**Vivekananda Institute of Management, Bengaluru**
+
+📅 **2020 – 2023**
+
+<br/>
 
 # 🌍 Connect With Me
 
