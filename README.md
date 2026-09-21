@@ -34,11 +34,19 @@
 
 <img align="right" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-🚀 Passionate **Software Engineer** & **Full Stack Developer**  
-💡 Focused on creating scalable and modern applications  
-🤖 Enthusiastic about **Machine Learning & AI**  
-🌱 Continuously learning new technologies and frameworks  
-🔥 Love building real-world projects & solving problems  
+🎓 Currently pursuing **Master of Computer Applications (MCA)** at Sir M. Visvesvaraya Institute of Technology, Bengaluru
+
+💻 Aspiring **Software Engineer** with a strong interest in **Java, Python and Full Stack Development**
+
+🚀 Experienced in building applications using **Spring Boot, React.js, REST APIs and MySQL**
+
+🤖 Interested in **Machine Learning** and integrating intelligent solutions into real-world applications
+
+🛠️ Currently working on a **Smart E-Commerce System** with demand prediction and personalized recommendations
+
+🧠 Strong interest in **problem-solving, software development and learning new technologies**
+
+🌱 Continuously improving my skills through **hands-on projects, hackathons and practical development**
 
 <br/>
 
