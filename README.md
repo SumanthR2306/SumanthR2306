@@ -99,16 +99,16 @@
 <tr>
 <td width="50%">
 
-### 🛒 Smart E-Commerce System
+### 🛒 Smart E-Commerce System with Demand Prediction & Personalized Recommendations
 
-🔹 Demand prediction & personalized recommendation system  
-🔹 Product browsing, search, cart & checkout functionality  
-🔹 Admin management for products, categories & inventory  
-🔹 Secure authentication with JWT & Spring Security  
-🔹 Sales analytics and order management  
+🔹 Full-stack e-commerce application with product browsing, search, filtering, cart, checkout, orders and reviews  
+🔹 Secure REST APIs using Spring Boot, Spring Security and JWT authentication  
+🔹 Admin module for product, category, inventory and order management  
+🔹 Machine learning services for demand prediction and personalized recommendations  
+🔹 Integrated frontend, backend, database and ML services through REST APIs  
 
 **Tech Used:**  
-`Java 21` `Spring Boot` `React.js` `MySQL` `Spring Security` `JWT` `Python` `FastAPI` `Scikit-Learn`
+`React.js` `Java 21` `Spring Boot` `MySQL` `Spring Security` `JWT` `Python` `FastAPI` `Scikit-Learn`
 
 </td>
 
@@ -117,9 +117,9 @@
 ### 🤖 Stress Detection in IT Employees
 
 🔹 Machine Learning based stress-level detection system  
-🔹 Used behavioral & physiological datasets  
-🔹 Performed data preprocessing, normalization & feature selection  
-🔹 Implemented SVM, Random Forest & KNN classifiers  
+🔹 Prepared behavioral and physiological datasets with missing-value handling and normalization  
+🔹 Implemented SVM, Random Forest and KNN classification models  
+🔹 Evaluated models using cross-validation, confusion matrix, precision, recall and F1-score  
 🔹 Reported **97% accuracy** in stress-level detection  
 
 **Tech Used:**  
@@ -127,39 +127,6 @@
 
 </td>
 </tr>
-
-<tr>
-<td width="50%">
-
-### 📈 Demand Prediction & Recommendation
-
-🔹 Random Forest Regression based demand prediction  
-🔹 Hybrid content-based & collaborative filtering  
-🔹 Personalized product recommendations  
-🔹 Integrated ML services with backend REST APIs  
-🔹 Designed to support data-driven e-commerce decisions  
-
-**Tech Used:**  
-`Python` `Scikit-Learn` `FastAPI` `Spring Boot` `REST API`
-
-</td>
-
-<td width="50%">
-
-### 🔐 Secure REST API & Backend Services
-
-🔹 Developed REST APIs using Spring Boot  
-🔹 Implemented JWT-based authentication & authorization  
-🔹 MySQL database integration  
-🔹 Product, category, inventory & order management  
-🔹 Frontend-backend integration through REST APIs  
-
-**Tech Used:**  
-`Java` `Spring Boot` `Spring Security` `JWT` `MySQL` `Maven`
-
-</td>
-</tr>
-
 </table>
 
 </div>
