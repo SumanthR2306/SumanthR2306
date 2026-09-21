@@ -66,14 +66,6 @@
 
 <br/><br/>
 
-## 🤖 Machine Learning
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<br/><br/>
-
 ## 🛠️ Tools & IDEs
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,pycharm,linux&theme=dark" />
 
@@ -163,7 +155,6 @@
 |---|---|
 | 🎓 Getting Started with Full Stack Java Development | Simplilearn |
 | 💻 Full Stack Master Course | Great Learning |
-| 🤖 Advance Python & Machine Learning | Glovish Technologies |
 
 </div>
 
