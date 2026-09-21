@@ -34,20 +34,19 @@
 
 <img align="right" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-🎓 Currently pursuing **Master of Computer Applications (MCA)** at  
-**Sir M. Visvesvaraya Institute of Technology, Bengaluru**
+🎓 Currently pursuing **Master of Computer Applications (MCA)** at Sir M. Visvesvaraya Institute of Technology, Bengaluru
 
-💻 Aspiring **Software Engineer** with an interest in **Java, Python and Full Stack Development**
+💻 Aspiring **Software Engineer** with a strong interest in **Java, Python and Full Stack Development**
 
 🚀 Experienced in building applications using **Spring Boot, React.js, REST APIs and MySQL**
 
-🤖 Interested in **Machine Learning** and intelligent software solutions
+🤖 Interested in **Machine Learning** and integrating intelligent solutions into real-world applications
 
-🛒 Currently working on a **Smart E-Commerce System** with demand prediction and personalized recommendations
+🛠️ Currently working on a **Smart E-Commerce System** with demand prediction and personalized recommendations
 
-🧠 Passionate about **problem-solving, software development and learning new technologies**
+🧠 Strong interest in **problem-solving, software development and learning new technologies**
 
-🌱 Continuously improving my skills through **projects, hackathons and hands-on development**
+🌱 Continuously improving my skills through **hands-on projects, hackathons and practical development**
 
 <br/>
 
@@ -57,51 +56,18 @@
 
 <div align="center">
 
-## 💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,php&theme=dark" />
-
-<br/><br/>
-
 ## 🎨 Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular&theme=dark" />
-
-<br/><br/>
-
-## ⚙️ Backend & Frameworks
-
-<img src="https://skillicons.dev/icons?i=spring,nodejs,django,fastapi&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap&theme=dark" />
 
 <br/><br/>
 
-## 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
-
-<br/><br/>
-
-## 🤖 Machine Learning
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+## ⚙️ Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,php,python,java,spring,mongodb,mysql,postgres&theme=dark" />
 
 <br/><br/>
 
-## 🔐 Web Technologies
-
-<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-
-<br/><br/>
-
-## 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux&theme=dark" />
-
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+## 🛠️ Tools & IDEs
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,pycharm,linux&theme=dark" />
 
 </div>
 
@@ -125,38 +91,24 @@
 
 </div>
 
----
-
 # 🚀 Featured Projects
 
 <div align="center">
 
 <table>
 <tr>
-
 <td width="50%">
 
-### 🛒 Smart E-Commerce System
+### 🛒 Smart E-Commerce System with Demand Prediction & Personalized Recommendations
 
-**Demand Prediction & Personalized Recommendations**
+🔹 Full-stack e-commerce application with product browsing, search, filtering, cart, checkout, orders and reviews  
+🔹 Secure REST APIs using Spring Boot, Spring Security and JWT authentication  
+🔹 Admin module for product, category, inventory and order management  
+🔹 Machine learning services for demand prediction and personalized recommendations  
+🔹 Integrated frontend, backend, database and ML services through REST APIs  
 
-🔹 Full-stack e-commerce application with product browsing, search, filtering, cart and checkout
-
-🔹 Secure REST APIs using **Spring Boot, Spring Security & JWT**
-
-🔹 Admin module for product, category, inventory and order management
-
-🔹 Machine learning based **demand prediction**
-
-🔹 Personalized product recommendations using **hybrid recommendation techniques**
-
-🔹 Integration of frontend, backend, database and ML services
-
-**Tech Used:**
-
-`React.js` `Java 21` `Spring Boot` `MySQL`
-
-`Spring Security` `JWT` `Python` `FastAPI` `Scikit-Learn`
+**Tech Used:**  
+`React.js` `Java 21` `Spring Boot` `MySQL` `Spring Security` `JWT` `Python` `FastAPI` `Scikit-Learn`
 
 </td>
 
@@ -164,30 +116,16 @@
 
 ### 🤖 Stress Detection in IT Employees
 
-**Machine Learning Based Stress Detection**
+🔹 Machine Learning based stress-level detection system  
+🔹 Prepared behavioral and physiological datasets with missing-value handling and normalization  
+🔹 Implemented SVM, Random Forest and KNN classification models  
+🔹 Evaluated models using cross-validation, confusion matrix, precision, recall and F1-score  
+🔹 Reported **97% accuracy** in stress-level detection  
 
-🔹 Developed a Machine Learning system for stress-level detection
-
-🔹 Used **behavioral and physiological datasets**
-
-🔹 Performed data preprocessing, normalization and feature selection
-
-🔹 Implemented **SVM, Random Forest and KNN**
-
-🔹 Evaluated models using cross-validation
-
-🔹 Used confusion matrix, precision, recall and F1-score
-
-🔹 Reported **97% accuracy** in stress-level detection
-
-**Tech Used:**
-
-`Python` `Pandas` `NumPy`
-
-`Scikit-Learn` `Matplotlib` `Seaborn`
+**Tech Used:**  
+`Python` `Pandas` `NumPy` `Scikit-Learn` `Matplotlib` `Seaborn`
 
 </td>
-
 </tr>
 </table>
 
@@ -207,14 +145,11 @@
 # 🚀 Hackathons
 
 ### 🧠 Hydra Hacks 2025
-
 **AI Agents using n8n**
 
-🔹 Participated in a team-based hackathon focused on **AI Agent development using n8n**
-
-🔹 Explored workflow automation and AI-driven solutions
-
-🔹 Collaborated with team members to design and implement an AI-based solution
+- Participated in a team-based hackathon focused on **AI Agent development using n8n**
+- Worked on workflow automation and AI-driven solutions
+- Collaborated with team members to design and implement the solution
 
 ---
 
@@ -222,11 +157,10 @@
 
 <div align="center">
 
-| 🎓 Certification | 🏢 Platform |
+| Certification | Platform |
 |---|---|
-| Getting Started with Full Stack Java Development | Simplilearn |
-| Full Stack Master Course | Great Learning |
-| Advanced Python & Machine Learning | Glovish Technologies |
+| 🎓 Getting Started with Full Stack Java Development | Simplilearn |
+| 💻 Full Stack Master Course | Great Learning |
 
 </div>
 
@@ -236,45 +170,9 @@
 
 <div align="center">
 
-### 🎓 Master of Computer Applications — MCA
-
-**Sir M. Visvesvaraya Institute of Technology, Bengaluru**
-
-📅 **2025 – 2027**
-
-<br/>
-
-### 🎓 Bachelor of Computer Applications — BCA
-
-**Vivekananda Institute of Management, Bengaluru**
-
-📅 **2020 – 2023**
-
-<br/>
-
-### 📚 Intermediate
-
-**Department of Pre-University Education**
-
-📅 **2019**
-
-</div>
-
----
-
-# 🎯 Career Interests
-
-<div align="center">
-
-💻 **Software Engineering**
-
-☕ **Java & Spring Boot Development**
-
-🌐 **Full Stack Development**
-
-🤖 **Machine Learning**
-
-🔧 **Backend & REST API Development**
+🎓 **Bachelor of Computer Applications (BCA)**  
+📍 Vivekananda Institute of Management, Bangalore  
+📅 2020 - 2023
 
 </div>
 
@@ -322,10 +220,10 @@
 
 <div align="center">
 
-# 🔥 Code • Learn • Build • Improve
+# 🔥 “Code • Learn • Build • Repeat”
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=120&section=footer"/>
 
-### ⭐ Thanks for visiting my profile!
+⭐ From [SumanthR2306](https://github.com/SumanthR2306)
 
 </div>
