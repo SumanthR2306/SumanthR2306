@@ -91,8 +91,6 @@
 
 </div>
 
----
-
 # 🚀 Featured Projects
 
 <div align="center">
@@ -101,27 +99,31 @@
 <tr>
 <td width="50%">
 
-### 🤖 Stress Detection in IT Employees
+### 🛒 Smart E-Commerce System
 
-🔹 Machine Learning based stress prediction system  
-🔹 Achieved **97% accuracy**  
-🔹 Used behavioral & physiological datasets  
+🔹 Demand prediction & personalized recommendation system  
+🔹 Product browsing, search, cart & checkout functionality  
+🔹 Admin management for products, categories & inventory  
+🔹 Secure authentication with JWT & Spring Security  
+🔹 Sales analytics and order management  
 
 **Tech Used:**  
-`Python` `Pandas` `NumPy` `Scikit-Learn`
+`Java 21` `Spring Boot` `React.js` `MySQL` `Spring Security` `JWT` `Python` `FastAPI` `Scikit-Learn`
 
 </td>
 
 <td width="50%">
 
-### 📱 Mobile Store Management
+### 🤖 Stress Detection in IT Employees
 
-🔹 Inventory & billing management system  
-🔹 Role-based access implementation  
-🔹 Automated reports & invoices  
+🔹 Machine Learning based stress-level detection system  
+🔹 Used behavioral & physiological datasets  
+🔹 Performed data preprocessing, normalization & feature selection  
+🔹 Implemented SVM, Random Forest & KNN classifiers  
+🔹 Reported **97% accuracy** in stress-level detection  
 
 **Tech Used:**  
-`C#` `SQL Server` `Windows Forms`
+`Python` `Pandas` `NumPy` `Scikit-Learn` `Matplotlib` `Seaborn`
 
 </td>
 </tr>
@@ -129,30 +131,35 @@
 <tr>
 <td width="50%">
 
-### 🌐 Full Stack Web Applications
+### 📈 Demand Prediction & Recommendation
 
-🔹 Responsive full-stack web apps  
-🔹 Frontend & backend integration  
-🔹 Database connectivity & APIs  
+🔹 Random Forest Regression based demand prediction  
+🔹 Hybrid content-based & collaborative filtering  
+🔹 Personalized product recommendations  
+🔹 Integrated ML services with backend REST APIs  
+🔹 Designed to support data-driven e-commerce decisions  
 
 **Tech Used:**  
-`React.js` `Node.js` `MySQL`
+`Python` `Scikit-Learn` `FastAPI` `Spring Boot` `REST API`
 
 </td>
 
 <td width="50%">
 
-### 💻 Portfolio & UI Projects
+### 🔐 Secure REST API & Backend Services
 
-🔹 Modern UI/UX projects  
-🔹 Responsive website layouts  
-🔹 Interactive components & styling  
+🔹 Developed REST APIs using Spring Boot  
+🔹 Implemented JWT-based authentication & authorization  
+🔹 MySQL database integration  
+🔹 Product, category, inventory & order management  
+🔹 Frontend-backend integration through REST APIs  
 
 **Tech Used:**  
-`HTML` `CSS` `JavaScript` `Bootstrap`
+`Java` `Spring Boot` `Spring Security` `JWT` `MySQL` `Maven`
 
 </td>
 </tr>
+
 </table>
 
 </div>
